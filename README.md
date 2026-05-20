@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Christian M. Johnson**
+# 👋 Hi, I'm **Christian (Kenn) M. Johnson**
 
 💻 Technical Support Engineer | IAM & Enterprise Systems Specialist  
 📍 Based in Manassas, Virginia, USA  
