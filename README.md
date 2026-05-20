@@ -62,14 +62,17 @@ I am passionate about cloud infrastructure, enterprise support operations, and c
 
 ### 🧑‍💻 Technical Support Lead
 
-**Restyn, Inc** (Jul 2024 – Present)
+**Restyn, Inc** (Jul 2024 – Current)
 
-- Lead Tier 2/3 escalation support for Microsoft 365, IAM systems, SaaS platforms, and enterprise infrastructure supporting 300+ users.
-- Perform root cause analysis on complex authentication, endpoint, and access control issues.
-- Manage user provisioning and deprovisioning in Active Directory and Entra.
-- Act as escalation point for high-priority incidents and coordinate with engineering teams.
-- Improve operational efficiency by reducing resolution time through AI-assisted documentation and automation.
-- Identify recurring incidents and implement process improvements to reduce system failures.
+- Lead Tier 2/3 technical support and escalation management across Microsoft 365, IAM systems, endpoint infrastructure, SaaS platforms, and distributed enterprise environments supporting 300+ users and multiple client organizations.
+- Debug and resolve over 50+ complex issues monthly, by performing root cause analysis across authentication systems, endpoint devices, access controls, integrations, and enterprise SaaS platforms.
+- Manage user provisioning and deprovisioning for 300+ users within Active Directory and Entra, ensuring secure and timely access control.
+- Serve as the primary Tier 2/3 escalation point for high-priority technical incidents, utilizing Log Analysis to reproduce issues and align with engineering teams for long-term resolution.
+- Partner with sales engineering and operations teams to support client technical initiatives and resolve critical issues.
+- Enforced the law of least privilege principles by routinely auditing and adjusting our user permissions across multiple systems.
+- Leverage AI tools and automation to translate complex technical feedback into actionable documentation, reducing average resolution time by 25% for distributed systems.
+- Utilize Microsoft Excel to track trends of incidents, analyze recurring issues, and provide actionable insights that improve resolution efficiency by 20%.
+- Align cross-functional teams to implement process improvements that reduced recurring incidents by 25% through proactive monitoring of endpoint infrastructure.
 
 ---
 
@@ -77,12 +80,13 @@ I am passionate about cloud infrastructure, enterprise support operations, and c
 
 **E4E Relief** (Sep 2022 – Jul 2024)
 
-- Provided Tier 2/3 support for enterprise SaaS platforms and CRM systems.
-- Configured Microsoft Dynamics 365 workflows, roles, and system entities.
-- Managed IAM roles and RBAC-based security structures.
-- Improved system efficiency through workflow automation.
-- Supported global users including executives and external vendors.
-- Ensured high data integrity during system migrations and reporting.
+- Provided Tier 2/3 technical support for 300+ users, resolving 60+ complex issues weekly within SaaS and enterprise technology ecosystems.
+- Configured and customized Dynamics 365 entities, forms, views, workflows, and security roles to ensure platform stability and policy alignment.
+- Utilized AI-assisted analysis in order to troubleshoot complex CRM and system issues, improving investigation speed and accuracy.
+- Automated business processes and workflows using built-in Dynamics tools and workflows, improving efficiency by 25%.
+- Administered Identity and Access Management (IAM) through RBAC principles and group-based permission structures.
+- Provided expert-level support to global users, executives, and third-party vendors, ensuring seamless operations across multiple time zones.
+- Leveraged Microsoft Excel for data processing, reporting, and validation of CRM data, ensuring a 99%+ data accuracy score during migrations and updates.
 
 ---
 
@@ -90,10 +94,12 @@ I am passionate about cloud infrastructure, enterprise support operations, and c
 
 **SPX** (Jul 2022 – Sep 2022)
 
-- Delivered enterprise-level technical support for hardware and software systems.
-- Supported device lifecycle management and enterprise deployments.
-- Analyzed system logs and security reports for leadership insights.
-- Assisted L1 teams with advanced troubleshooting and escalations.
+- Delivered Tier 2 technical support for hardware, software, and enterprise applications.
+- Managed the deployment and retirement lifecycle for corporate hardware assets to maintain infrastructure security.
+- Supported executives and end users via phone, chat, and email while meeting SLA requirements.
+- Assisted L1 support staff with escalations and advanced troubleshooting.
+- Analyzed system performance and identified trends or recurring issues for leadership review.
+- Utilized advanced Excel functions to analyze access logs and generate policy enforcement reports for security leadership.
 
 ---
 
@@ -101,10 +107,12 @@ I am passionate about cloud infrastructure, enterprise support operations, and c
 
 **Wells Fargo** (Jan 2022 – Jul 2022)
 
-- Managed access control systems including badge provisioning and compliance tracking.
-- Supported security operations and risk mitigation processes.
-- Generated security reports using advanced Excel analysis.
-- Collaborated with leadership on improving access governance.
+- Managed physical and electronic access control systems, including badge provisioning and approvals.
+- Supported employees, executives, vendors, and security personnel with access and compliance needs.
+- Monitored intrusion detection and access control systems.
+- Prepared security and access reports to support risk mitigation and policy enforcement.
+- Collaborated with leadership to improve security processes and controls.
+- Utilized Microsoft Excel to generate and analyze access control and security reports.
 
 ---
 
@@ -112,10 +120,11 @@ I am passionate about cloud infrastructure, enterprise support operations, and c
 
 **Electrolux** (Jul 2021 – Jan 2022)
 
-- Provided Tier 1/2 support for global enterprise users.
-- Managed onboarding/offboarding and Active Directory provisioning.
-- Supported VPN, Citrix, and SSO-related troubleshooting.
-- Logged and resolved incidents using ITSM tools.
+- Provided Tier 1/2 technical support for desktops, mobile devices, and SaaS enterprise applications for a global user base.
+- Managed user onboarding and offboarding, ensuring secure provisioning of system access through Active Directory.
+- Logged, tracked, and resolved incidents through ticketing systems.
+- Supported Citrix environments and SSO configuration, resolving complex browser compatibility and connectivity issues.
+- Troubleshot VPN technologies to ensure secure remote access for distributed workforce members.
 
 ---
 
@@ -123,10 +132,10 @@ I am passionate about cloud infrastructure, enterprise support operations, and c
 
 **Restyn, Inc** (Jun 2020 – Jul 2021)
 
-- Led desktop and endpoint support operations.
-- Mentored junior technicians in troubleshooting workflows.
-- Maintained IT documentation and knowledge base articles.
-- Ensured SLA compliance across ticketing systems.
+- Provided lead technical support for desktops and mobile devices, mentoring junior technicians on ticket resolution protocols.
+- Onboarded and offboarded users, provisioning and removing system access.
+- Logged, tracked, and resolved incidents through enterprise ticketing systems with high attention to SLA compliance.
+- Developed documentation for common help desk resolutions to improve Tier 1 troubleshooting speed.
 
 ---
 
