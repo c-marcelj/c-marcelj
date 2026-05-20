@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Christian M. Johnson (c-marcelj)**
+# 👋 Hi, I'm **Christian M. Johnson**
 
 💻 Technical Support Engineer | IAM & Enterprise Systems Specialist  
 📍 Based in Manassas, Virginia, USA  
